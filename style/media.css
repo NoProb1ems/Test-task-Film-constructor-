@@ -1,0 +1,338 @@
+@media screen and (min-width: 1650px)
+ and (max-width: 1920px){
+}
+@media screen and (min-width: 1400px)
+ and (max-width: 1649px){
+ 	.header .logo {
+    width: 15%;
+	}
+	.header .remote {
+    width: 85%;
+	}
+	.movie .film,
+	.movie .coments {
+	    left: 15%;
+	    width: 70%;
+	}
+}
+
+@media screen and (min-width: 1200px)
+ and (max-width: 1399px){
+ 	body {
+  font-size: 85%;
+	}
+ 	.header .logo {
+    width: 15%;
+	}
+	.header .remote {
+    width: 85%;
+	}
+	.header .remote .addFilm img {
+    height: 34px;
+    width: 34px;
+	}
+	.movie .film .info ul {
+    width: 90%;
+	}
+	.movie .film .info .tegs {
+    width: 60px;
+	}
+	.movie .film,
+	.movie .coments {
+	    left: 15%;
+	    width: 70%;
+	}
+	.modalwindow,
+	.modalwindow2  {
+    left: 15%;
+    width: 70%;
+	}
+	.header .remote .addFilm span {
+    left: 40%;
+	}
+
+
+
+
+
+
+	.movie .coments .count {
+    padding-bottom: 20px;
+	}
+	.movie .coments {
+    padding-top: 20px;
+	}
+	.movie .coments ul li {
+    padding: 20px 0px;
+	}
+
+
+
+
+
+
+
+
+
+
+	.header, .header .logo, .header .remote {
+		height: 100px;
+	}
+	.header .remote .addFilm {
+	    top: 35px;
+	}
+
+}
+
+@media screen and (min-width: 1100px)
+ and (max-width: 1199px){
+ 	body {
+  font-size: 80%;
+	}
+ 	.header .logo {
+    width: 15%;
+	}
+	.header .remote {
+    width: 85%;
+	}
+	.header .remote .addFilm img {
+    height: 32px;
+    width: 32px;
+	}
+	.movie .film .info ul {
+    width: 90%;
+	}
+	.movie .film,
+	.movie .coments {
+	    left: 15%;
+	    width: 70%;
+	}
+	.modalwindow,
+	.modalwindow2  {
+    left: 15%;
+    width: 70%;
+	}
+	.cancel, .edits, .adds {
+    width: 130px;
+	}
+	.header .remote .addFilm span {
+    left: 40%;
+	}
+
+
+
+
+
+	.movie .coments .count {
+    padding-bottom: 20px;
+	}
+	.movie .coments {
+    padding-top: 20px;
+	}
+	.movie .coments ul li {
+    padding: 20px 0px;
+	}
+
+
+
+
+
+
+
+
+
+	.header, .header .logo, .header .remote {
+		height: 100px;
+	}
+	.header .remote .addFilm {
+	    top: 35px;
+	}
+
+
+}
+
+@media screen and (min-width: 1000px)
+ and (max-width: 1099px){
+ 	body {
+  font-size: 75%;
+	}
+ 	.header .logo {
+    width: 15%;
+	}
+	.header .remote {
+    width: 85%;
+	}
+	.movie .film,
+	.movie .coments {
+	    left: 15%;
+	    width: 70%;
+	}
+	.movie .film .info ul {
+    width: 90%;
+	}
+	.movie .film .info .btn {
+    width: 112px;
+    height: 36px;
+    border-radius: 32px;
+    margin-right: 20px;
+    margin-bottom: 40px;
+	}
+	#add_coment {
+	width: 112px;
+    height: 36px;
+    border-radius: 32px;
+    margin-right: 20px;
+    margin-bottom: 40px;
+	}
+	.movie .film .info .tegs {
+    width: 60px;
+	}
+	.movie .film .info .actors {
+    width: 65%;
+	}
+	.modalwindow,
+	.modalwindow2  {
+    left: 15%;
+    width: 70%;
+	}
+	.cancel, .edits, .adds {
+    width: 120px;
+	}
+	.header .remote .addFilm img {
+    height: 32px;
+    width: 32px;
+	}
+	.header .remote .addFilm span {
+    left: 40%;
+	}
+
+
+
+
+
+
+
+	.movie .coments .count {
+    padding-bottom: 20px;
+	}
+	.movie .coments {
+    padding-top: 20px;
+	}
+	.movie .coments ul li {
+    padding: 20px 0px;
+	}
+
+
+
+
+
+
+
+
+
+
+
+	.header, .header .logo, .header .remote {
+		height: 100px;
+	}
+	.header .remote .addFilm {
+	    top: 30px;
+	}
+
+}
+
+@media screen and (min-width: 800px)
+ and (max-width: 999px) {
+ 	body {
+  font-size: 70%;
+	}
+ 	.header .logo {
+    width: 15%;
+	}
+	.header .remote {
+    width: 85%;
+	}
+	.movie .film,
+	.movie .coments {
+	    left: 15%;
+	    width: 70%;
+	}
+	.movie .film .info ul {
+    width: 90%;
+	}
+	.movie .film .info .btn {
+    width: 112px;
+    height: 36px;
+    border-radius: 32px;
+    margin-right: 20px;
+    margin-bottom: 40px;
+	}
+	#add_coment {
+	width: 112px;
+    height: 36px;
+    border-radius: 32px;
+    margin-right: 20px;
+    margin-bottom: 40px;
+	}
+	.movie .film .info .tegs {
+    width: 45px;
+	}
+	.movie .film .info .actors {
+    width: 60%;
+	}
+	.modalwindow, 
+	.modalwindow2  {
+    left: 15%;
+    width: 70%;
+	}
+	.cancel, .edits, .adds {
+    width: 110px;
+	}
+	.cancel {
+		margin-right: 5px;
+	}
+	.header .remote .addFilm img {
+    height: 32px;
+    width: 32px;
+	}
+	.header .remote .addFilm span {
+    left: 40%;
+	}
+
+
+
+
+	.movie .coments .count {
+    	padding-bottom: 20px;
+	}
+	.movie .coments {
+    	padding-top: 20px;
+	}
+	.movie .coments ul li {
+    	padding: 20px 0px;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	.header, .header .logo, .header .remote {
+		height: 100px;
+	}
+	.header .remote .addFilm {
+	    top: 35px;
+	}
+
+
+
+}
